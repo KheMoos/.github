@@ -16,3 +16,5 @@ Moo's intended scope includes rigid bodies, fluids, deformable solids, thermal s
 **Bulk execution** is a core requirement: headless runs, reproducible configurations, validation, and measured performance.
 
 Both engines are in early development. Physical accuracy, rendering fidelity, and throughput are goals demonstrated through tests and benchmarks as the engines mature.
+
+**Development priority:** establish Moo's correctness, physical validation, and reliable bulk execution first, then expand Khe rendering against a stable interface. The intended architecture keeps both engine cores independent, with a viewer/adapter connecting them. [Architecture and work order](https://github.com/KheMoos/Moo/blob/main/docs/ARCHITECTURE.md).
