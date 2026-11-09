@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KheMoos/.github/main/profile/assets/khemoos-banner-v1.png" alt="A friendly blue whale swimming toward a golden crescent moon among soft watercolor stars" width="100%">
+</p>
+
 # KheMoos
 
 Building our own Rust general physics engine and high-fidelity rendering engine for real-world simulation.
