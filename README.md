@@ -1,4 +1,4 @@
-# Khemoos community configuration
+# KheMoos community configuration
 
 This repository contains the organization profile and default contribution, issue, and pull-request templates.
 
